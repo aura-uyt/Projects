@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Turn-Based RPG Lite.iml" filepath="$PROJECT_DIR$/Turn-Based RPG Lite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TBRL.iml" filepath="$PROJECT_DIR$/TBRL.iml" />
     </modules>
   </component>
 </project>
